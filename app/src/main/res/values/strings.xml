@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="permission_text">permission_text</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+
+</resources>
